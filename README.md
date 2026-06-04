@@ -83,7 +83,7 @@ flowchart TD
 Clone this repository onto a shared filesystem where your group has read and execute permissions.
 
 ```bash
-git clone <your-github-repo-url> susiex_pipeline
+git clone https://github.com/VUMC-VMAC/susiex_pipeline.git susiex_pipeline
 cd susiex_pipeline
 
 # 1. Edit the admin-default binary paths
